@@ -14,4 +14,4 @@ Hyperbola is a front-end theme created from a mock-up. The theme is created with
 The theme is inspired by [Brad Traversy](http://www.traversymedia.com/)'s Blogen theme.
 
 ## Setup
-To setup/import to your local project use Node.js with Gulp. The gulp setup file is [attached](https://github.com/vgorbic1/hyperbola/blob/master/gulpfile.js).
+To setup/import to your local project use Node.js with Gulp. The Gulp setup file is [attached](https://github.com/vgorbic1/hyperbola/blob/master/gulpfile.js).

@@ -3,6 +3,7 @@ A Bootstrap 4 front-end admin theme.
 
 ![http://hyperbola.gorbich.com](http://hyperbola.gorbich.com/img/demo.jpg)
 
+## Demo
 [hyperbola.gorbich.com](http://hyperbola.gorbich.com)
 
 ## Description
